@@ -1,3 +1,3 @@
 # psyborgs-demo-r
 
-Eric smells
+Eric smells fancy!
